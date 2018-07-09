@@ -1,0 +1,3 @@
+# ...
+translate None python:
+    style.default.font = "fonts/DEVROYUN.ttf"
