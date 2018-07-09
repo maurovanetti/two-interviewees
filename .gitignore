@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Ren'py
+tmp/
+log.txt
+errors.txt
+traceback.txt
+game/saves/
+game/cache/
+*.rpyb
+*.rpyc
